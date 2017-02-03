@@ -1,2 +1,2 @@
 # hello-world
-This is the repository follow hello world guild form github
+This is the repository following hello world guild of github
